@@ -1,0 +1,29 @@
+{
+  "uuid": "3e735e5e-18b6-4a92-9bf3-2ab0e63598d9",
+  "shortName": "Sudoku",
+  "longName": "Sudoku",
+  "companyName": "hamano",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+		{
+			"menuIcon": true,
+			"type": "png",
+			"name": "IMAGE_MENU_ICON",
+			"file": "icon.png"
+		},
+        {
+			"type": "png",
+			"name": "IMAGE_MASK",
+			"file": "mask.png"
+        }
+	]
+  }
+}
